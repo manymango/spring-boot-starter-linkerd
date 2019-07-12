@@ -1,4 +1,4 @@
-package org.wii.springboot.starter.linkerd;
+package org.wii.springboot.linkerd;
 
 
 public class Application {
