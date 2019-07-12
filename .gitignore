@@ -5,6 +5,7 @@
 
 /spring-boot-starter-linkerd-test/*.iml
 /spring-boot-starter-linkerd-test/target/
+
 /spring-boot-starter-linkerd/*.iml
 /spring-boot-starter-linkerd/target/
 
